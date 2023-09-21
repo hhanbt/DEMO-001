@@ -1,0 +1,11 @@
+.app-header {
+    background-color: aqua;
+    width: 450px;
+    height: 100px;
+}
+
+.main-body {
+    background-color: burlywood;
+    width: 450px;
+    height: auto;
+}
